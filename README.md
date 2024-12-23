@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 ## 🚀 About Me
 
 - 🌱 I’m currently learning [Javascript, React]
-- 💬 Ask me about [insert topics you are knowledgeable about]
 - 📫 How to reach me: [linkedin.com/in/biotechwizengineer]
 - ⚡ Fun fact: [I'm a DIY Queen]
 
