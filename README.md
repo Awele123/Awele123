@@ -14,10 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
-## 📈 GitHub Stats
-
-![Awele123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awele123&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 - LinkedIn: [Awele123](linkedin.com/in/biotechwizengineer)
