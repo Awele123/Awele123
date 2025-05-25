@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![React](https://img.shields.io/badge/-Flutter-black?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-React-black?style=flat&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
