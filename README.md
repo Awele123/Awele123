@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Awele123](linkedin.com/in/biotechwizengineer)
+- LinkedIn: [Awele]((http://linkedin.com/in/biotechwizengineer))
