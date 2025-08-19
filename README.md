@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## 🚀 About Me
 
-- 🌱 I’m fluent in a few languages excelt French 😅 [Javascript, React & Flutter]
+- 🌱 I’m in [Javascript, React & Flutter]
 - 📫 How to reach me: [linkedin.com/in/biotechwizengineer]
 - ⚡ Fun fact: [I'm a DIY Queen]
 
